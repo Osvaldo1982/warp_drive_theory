@@ -1,4 +1,4 @@
-# warp_drive_theory
+# Warp Drive
 
 O.L Santos-Pereira, E.M.C. Abreu, and M.B. Ribeiro.  
 *Fluid dynamics in the warp drive spacetime geometry*.  
