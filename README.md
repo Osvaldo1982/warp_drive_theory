@@ -24,6 +24,12 @@ Eur. Phys. J. Plus (2021) 136: 90223 (2021).
 [doi: 10.1140/epjp/s13360-021-01899-7](https://doi.org/10.1140/epjp/s13360-021-01899-7)  
 [arXiv:2108.10960v1](https://arxiv.org/abs/2108.10960v1). 
 
+O.L Santos-Pereira and  E.M.C. Abreu and M.B. Ribeiro.  
+*Warp drive dynamic solutions considering different fluid sources*. 
+The Sixteenth Marcel Grossmann Meeting, pp. 840-855 (2023). 
+[doi: 10.1142/9789811269776\_0066](https://doi.org/10.1142/9789811269776_0066).  
+[arXiv:2108.10960v1](https://arxiv.org/abs/2108.10960).
+
 O.L Santos-Pereira, E.M.C. Abreu, and M.B. Ribeiro. 
 *Warp drive dynamic solutions considering different fluid sources*.  
 The Sixteenth Marcel Grossmann Meeting, pp. 840-855 (2023).  
