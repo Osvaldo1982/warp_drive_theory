@@ -34,4 +34,5 @@ O.L Santos-Pereira, E.M.C. Abreu, and M.B. Ribeiro.
 *Warp drive dynamic solutions considering different fluid sources*.  
 The Sixteenth Marcel Grossmann Meeting, pp. 840-855 (2023).  
 [doi: 10.1142/9789811269776_0066](https://doi.org/10.1142/9789811269776_0066)  
-[arXiv:2108.10960v1](https://arxiv.org/abs/2108.10960v1).
+[arXiv:2108.10960v1](https://arxiv.org/abs/2108.10960v1).  
+[AT3 - Wormholes, Energy Conditions and Time Machines - July 7](https://www.youtube.com/watch?v=NqN1c-2fv8Y&t=784s)
